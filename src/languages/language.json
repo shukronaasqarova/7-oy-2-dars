@@ -1,0 +1,53 @@
+{
+    "en": {
+      "translation": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "light": "Light",
+        "dark": "Dark",
+        "title": "Security Solution",
+        "slogan": "Keep track of your loved ones",
+        "slogan_2": "in real time!",
+        "description": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+        "join_us": "Join Our Waitlist!",
+        "notification": "",
+        "email_placeholder": "Enter your email",
+        "join_button": "Join List!"
+      }
+    },
+    "uz": {
+      "translation": {
+        "home": "Bosh sahifa",
+        "about": "Biz haqimizda",
+        "contact": "Aloqa",
+        "light": "Yorug'",
+        "dark": "Qorong'i",
+        "title": "Xavfsizlik yechimi",
+        "slogan": "Yaqinlaringizni kuzating",
+        "slogan_2": "real vaqtda!",
+        "description": "Biz texnologiyadan foydalanib dunyomizdagi xavfsizlikni yaxshilaymiz.",
+        "join_us": "Bizga qo'shiling!",
+        "notification": "Tayyor bo'lganimizda xabar oling!",
+        "email_placeholder": "Emailingizni kiriting",
+        "join_button": "Ro'yxatga qo'shiling!"
+      }
+    },
+    "ru": {
+      "translation": {
+        "home": "Главная",
+        "about": "О нас",
+        "contact": "Контакты",
+        "light": "Светлая",
+        "dark": "Тёмная",
+        "title": "Решение безопасности",
+        "slogan": "Следите за близкими",
+        "slogan_2": "в реальном времени!",
+        "description": "Мы используем технологии для улучшения безопасности в нашем мире.",
+        "join_us": "Присоединяйтесь к нам!",
+        "notification": "Узнайте, когда мы будем готовы!",
+        "email_placeholder": "Введите ваш email",
+        "join_button": "Присоединиться!"
+      }
+    }
+  }
